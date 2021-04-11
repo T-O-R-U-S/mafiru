@@ -9,6 +9,8 @@ Initially made for a freelancing gig, I have now open-sourced this project.
 
 ## Custom parameters for new file name:
 `[i]`: Current iteration (\[filename.txt, filenametwo.txt\] -> \[1, 2\])
+
 `[e] or [f]`: File extension (filename.txt -> .txt)
+
 `[n]`: Previous filename (filename.txt -> filename)
 ###### Suggest more custom parameters if you've got any ideas
